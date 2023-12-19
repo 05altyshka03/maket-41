@@ -1,0 +1,97 @@
+.div3 img{
+	background-size: cover;
+	position: relative;
+	width: 100%;
+margin-top: 100px;
+margin-left: 100px;
+
+}
+
+
+.div1{
+	border: 1px solid white;
+	width: 40%;
+	height: 350px;
+	left: 500px;
+	position: absolute;
+	top:400px;
+	border-radius: 10px;
+	box-sizing: border-box;
+	opacity:0.2;
+	color: white;
+	
+}
+
+
+
+
+h1{
+	text-align: center;
+}
+form{
+	
+	position: absolute;
+	left: 200px;
+	top: 60px
+	text-size:40px ;
+	background:;
+	padding: 10px;
+
+}
+.w{
+	text-align: center;
+	padding: 10px;
+	display: block;
+margin-bottom: -20px;
+background: none;
+color: white;
+transition: .5s;
+
+}
+.r:hover{
+	margin: 0 auto;
+	background: none;
+	background: blue;
+	color: white;
+}
+
+.w:hover{
+border-color:black ;
+}
+.div1:hover{
+	opacity:1;
+}	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
